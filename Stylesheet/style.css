@@ -147,7 +147,9 @@ body{
     margin-left: 400px;
     margin-bottom: 100px;
 }
-
+.footer-image img{
+    text-align: center;
+}
 .links{
     display: flex;
     margin-top: 20px;
